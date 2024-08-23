@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+h1{
+    position:absolute;
+    top:430px;
+    left:500px;
+    color: rgb(253, 45, 45);
+    text-shadow:15px 5px 5px 5px #08090a 
+    
+
+}
+.login{
+    height: 300px;
+    width: 250px;
+    border-radius:5px;
+    background-color: rgb(64, 66, 66);
+    margin-left: 400px;
+    position:absolute;
+    top:500px;
+    border:2px solid rgb(253, 45, 45);
+    box-shadow:5px 5px 2px 2px #21262b 
+
+}
+button{
+    padding:5px 40px 5px 40px;
+    margin-top:20px;
+    margin-left:70px;
+    text-align: left;
+    border-radius:20px;
+    border:2px solid rgb(253, 45, 45);
+    background-color:rgb(253, 45, 45);
+    box-shadow:2px 2px 2px 2px #08090a 
+    
+    
+}
+
+ p{
+    padding-left:px;
+    text-align: center;
+    color: rgb(245, 59, 59)
+}
+input{
+    padding-left:30px;
+    padding-right:30px;
+    margin-top:30px; 
+    margin-left:10px;
+    text-align: center;
+    height:30px;
+    border-radius: 20px;
+   
+    
+}
+.forget{
+    color:rgb(245, 59, 59);
+    text-shadow: 5px 2px 2px 2px #08090a;
+    
+}
+    
